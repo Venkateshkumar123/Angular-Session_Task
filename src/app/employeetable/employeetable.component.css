@@ -1,0 +1,20 @@
+table th{
+  background-color:Lavender;
+  padding: 0.5rem;
+
+}
+table td{
+  background-color:black;
+  padding: 0.5rem;
+  color: whitesmoke;
+}
+table button{
+  width: 100%;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+  background-color:Green;
+  color:black;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-weight: bold;
+
+}
